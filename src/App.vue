@@ -1,0 +1,3 @@
+<template>
+  <vab-app />
+</template>
